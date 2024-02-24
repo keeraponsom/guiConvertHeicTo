@@ -1,0 +1,6 @@
+pillow
+tkinter
+json
+os
+pathlib
+pillow-heif
